@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DK420786
+- 👋 Hi, I’m Devender Kumar
 - 👀 I’m interested in Coding and Programming.
 - 🌱 I’m currently learning MySql from IICS(India Institute of Computer science) Pitam Pura.
 - 💞️ I’m looking to collaborate on ...
